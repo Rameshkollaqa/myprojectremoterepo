@@ -1,0 +1,36 @@
+Git Workflow
+
+1.Create folder/files
+2.Git add - To track files to only required
+3.Git commit - To commit the file in git repository
+
+Goto Root IP → sudo su -
+Create project - MKDIR Project name
+Create file - Touch File name
+git config – list
+Set user name and email - To identity who has committed files
+git config –global user.name
+git config –global user.email
+git init to intialiatie project
+git add. Or git add -a
+git commit -m “Meesage”
+Nano .gitignore
+
+shh-keygen
+cat /root/.ssh/id_rsa.pub
+
+—---
+To remove directory
+
+rm -r directory
+
+Nano file to edit
+Vi file to edit
+
+If we create the same file in the project? Able to create
+Git add also works with same file name
+Pull file to local need to undserstand
+
+
+
+
